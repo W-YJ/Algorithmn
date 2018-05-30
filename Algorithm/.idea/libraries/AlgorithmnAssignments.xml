@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AlgorithmnAssignments">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AlgorithmnAssignments/stdlib-9.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
