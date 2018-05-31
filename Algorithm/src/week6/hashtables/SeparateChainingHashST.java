@@ -6,6 +6,16 @@ public class SeparateChainingHashST<Key, Value> {
     // array doubling and halving code omitted
     private Node[] st = new Node[M]; // array of chains
 
+    public boolean contains(Key i) {
+        // TODO
+        return false;
+    }
+
+    public Iterable<Key> keys() {
+        // TODO
+        return null;
+    }
+
 
     private static class Node {
 
