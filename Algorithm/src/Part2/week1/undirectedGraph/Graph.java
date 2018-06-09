@@ -1,27 +1,42 @@
 package Part2.week1.undirectedGraph;
 
+import edu.princeton.cs.algs4.Bag;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 
-// Graph API
+// Adjacency-list graph implementation
 public class Graph {
+
+    private final int V;
+
+    private Bag<Integer>[] adj;
+
     // create an empty graph with V vertices
     public Graph(int V) {
+        this.V = V;
+        // create empty graph with V vertices
+        adj = new Bag[V];
+        for (int v = 0; v < V; v++)
+            adj[v] = new Bag<Integer>();
     }
 
     // create a graph from input stream
     public Graph(In in) {
-
+        // TODO
+        V = in.readInt();
     }
 
     // add an edge v-w
     public void addEdge(int v, int w) {
+        // parallel edges and self-loops are allowed
+        adj[v].add(w);
+        adj[w].add(v);
 
     }
 
     // vertices adjacent to v
     public Iterable<Integer> adj(int v) {
-        return null;
+        return adj[v];
     }
 
     // number of vertices
