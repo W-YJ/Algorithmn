@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ef1fe8-3d1c-4d83-a7e2-51e08d707ac2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/DepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Insertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Point2D.java" afterDir="false" />
@@ -22,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/MergeBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/MergeBU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/practicalimprovements/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/practicalimprovements/Merge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/Quick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,11 +35,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Digraph.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java">
+      <file leaf-file-name="DirectedDFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+            <state relative-caret-position="396">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepthFirstOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectedComponents.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KosarajuSharirSCC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding>
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,11 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/Client.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/FrequencyCounter.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/BSSimpleTable.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/ST.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/Node.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/BST.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week5/balancedsearchtrees/LLRB.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week6/hashtables/symboltableapplications/SeparateChainingHashST.java" />
@@ -114,11 +165,16 @@
         <option value="$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/Ball.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/Particle.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/CollisionSystem.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/DepthFirstPaths.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Digraph.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java" />
       </list>
     </option>
   </component>
@@ -149,6 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,35 +223,14 @@
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
-              <item name="elementarysymboltables" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="directedGraphs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
@@ -201,6 +238,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="week1" type="462c0819:PsiDirectoryNode" />
               <item name="undirectedGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
@@ -233,8 +281,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,7 +458,10 @@
       <workItem from="1528373399084" duration="516000" />
       <workItem from="1528431558828" duration="1901000" />
       <workItem from="1528443163481" duration="933000" />
-      <workItem from="1528517255888" duration="359000" />
+      <workItem from="1528517255888" duration="1596000" />
+      <workItem from="1528528340975" duration="3434000" />
+      <workItem from="1528604075534" duration="5500000" />
+      <workItem from="1528644626480" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="roughly finish week 6">
       <created>1527750773792</created>
@@ -428,11 +477,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528203372536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1528517645871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528517645871</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94435000" />
+    <option name="totallyTimeSpent" value="105901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,10 +509,10 @@
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32668328" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3478803" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32793018" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4733728" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.45118344" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -474,28 +530,28 @@
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.07081545" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21816881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32793018" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3278237" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3261745" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.34848484" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32506886" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.29426435" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32793018" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32506886" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +591,8 @@
     <MESSAGE value="roughly finish week 6" />
     <MESSAGE value="begain algorithmn part 2" />
     <MESSAGE value="begin algorithm part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="begin algorithm part 2" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,91 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/week6/symboltableapplications/SET.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/hashtables/LinearProbingHashST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/WhiteList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/BlackList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/LookupCSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/Concordance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/hashtables/SeparateChainingHashST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/FileIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week6/symboltableapplications/SparseVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/InteractivePercolationVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week5/balancedsearchtrees/LLRB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WQUPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/unionfind/QuickFindUF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -825,24 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Bag.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Stack.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Queue.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -867,17 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -889,23 +836,151 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Bag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="2259" column="24" selection-start-line="2259" selection-start-column="24" selection-end-line="2259" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/stdlib-9.5.8.jar!/com/peterphi/std/io/nio/NIOHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/In.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1257">
+          <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WQUPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Graph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Digraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2512">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="21" selection-start-line="21" selection-end-line="22" />
+        <state relative-caret-position="611">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="90">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

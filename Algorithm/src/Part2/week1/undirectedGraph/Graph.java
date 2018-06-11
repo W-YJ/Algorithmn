@@ -8,12 +8,13 @@ import edu.princeton.cs.algs4.StdOut;
 public class Graph {
 
     private final int V;
-
+    private int E;
     private Bag<Integer>[] adj;
 
     // create an empty graph with V vertices
     public Graph(int V) {
         this.V = V;
+        this.E = 0;
         // create empty graph with V vertices
         adj = new Bag[V];
         for (int v = 0; v < V; v++)
@@ -22,7 +23,6 @@ public class Graph {
 
     // create a graph from input stream
     public Graph(In in) {
-        // TODO
         V = in.readInt();
     }
 
@@ -41,12 +41,12 @@ public class Graph {
 
     // number of vertices
     public int V() {
-        return 0;
+        return this.V;
     }
 
     // number of edges
     public int E() {
-        return 0;
+        return this.E;
     }
 
     // string representation
