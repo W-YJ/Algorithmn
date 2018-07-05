@@ -23,7 +23,7 @@ public class Graph {
 
     // create a graph from input stream
     public Graph(In in) {
-        V = in.readInt();
+        this.V = in.readInt();
     }
 
     // add an edge v-w
@@ -103,5 +103,4 @@ public class Graph {
             }
         }
     }
-
 }

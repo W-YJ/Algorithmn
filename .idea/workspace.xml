@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ef1fe8-3d1c-4d83-a7e2-51e08d707ac2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/Outcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/SAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/WordNet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Insertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Point2D.java" afterDir="false" />
@@ -22,8 +21,146 @@
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/MergeBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/MergeBU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/practicalimprovements/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/practicalimprovements/Merge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/Quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/CREDITS" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/CREDITS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/greeting57.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/greeting57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/greeting57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/greeting57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/heart25.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/heart25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/heart25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/heart25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input1-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input1-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input1-no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input1-no.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input1.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input10-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input10-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input10-no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input10-no.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input10.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input2-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input2-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input2-no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input2-no.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input2.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input20.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input3.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input4.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input5.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input50.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input6.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input7.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8-dups.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8-dups.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8-dups.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8-dups.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8-no.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8-no.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8-no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8-no.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/input8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/input8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/jerry47.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/jerry47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/jerry47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/jerry47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/sedgewick60.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/sedgewick60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/sedgewick60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/sedgewick60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/snake101.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/snake101.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/snake101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/snake101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/snake13.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/snake13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/snake13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/snake13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/wayne98.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/wayne98.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation-testing/wayne98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation-testing/wayne98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/InteractivePercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/PercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/PercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/TestingOutcome.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/Submission/TestingOutcome.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/Submission/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/Submission/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/Submission/Subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/Submission/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/Submission/TestingOutcome.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/TestingOutcome.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/distinct.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/distinct.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/duplicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/duplicates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/mediumTale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/mediumTale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/permutation10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/permutation10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/permutation4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/permutation4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/permutation5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/permutation5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/permutation6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/permutation6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/permutation8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/permutation8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/tale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/tale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/deques_and_randomized_queues/queues-testing/tinyTale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment2/deques_and_randomized_queues/queues-testing/tinyTale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/equidistant.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/equidistant.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/grid4x4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/grid4x4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/grid5x5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/grid5x5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/grid6x6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/grid6x6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/horizontal100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/horizontal100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/horizontal25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/horizontal25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/horizontal5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/horizontal5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/horizontal50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/horizontal50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/horizontal75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/horizontal75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/inarow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/inarow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input10.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input100.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input1000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input10000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input10000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input150.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input150.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input20.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input200.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input2000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input250.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input250.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input299.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input299.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input3000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input3000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input350.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input350.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input40.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input400.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input4000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input4000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input50.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input5000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input5000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input56.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input6.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input6000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input6000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input8.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input80.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input8000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input8000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input9.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/input9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/input9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/kw1260.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/kw1260.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/mystery10089.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/mystery10089.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/random152.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/random152.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/random23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/random23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/random38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/random38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/random91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/random91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/rs1423.png" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/rs1423.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/rs1423.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/rs1423.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/vertical100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/vertical100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/vertical25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/vertical25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/vertical5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/vertical5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/vertical50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/vertical50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/collinear_test/vertical75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/collinear_test/vertical75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/pattern_recognition/BruteCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/pattern_recognition/BruteCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/pattern_recognition/FastCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/pattern_recognition/FastCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/pattern_recognition/LineSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/pattern_recognition/LineSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/pattern_recognition/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/pattern_recognition/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/pattern_recognition/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment3/pattern_recognition/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,66 +172,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DirectedDFS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java">
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="630">
+              <caret line="60" column="71" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebCrawler.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ThreeSumFast.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSumFast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebCrawler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DepthFirstOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding>
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectedComponents.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KosarajuSharirSCC.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-              <folding>
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -124,11 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/src/week4/elementarysymboltables/BST.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week5/balancedsearchtrees/LLRB.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week6/hashtables/symboltableapplications/SeparateChainingHashST.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week6/hashtables/LinearProbingHashST.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/week6/hashtables/symboltableapplications/SET.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week6/symboltableapplications/SET.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week6/symboltableapplications/WhiteList.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/week6/hashtables/BlackList.java" />
@@ -169,12 +264,17 @@
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Digraph.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DepthFirstOrder.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java" />
+        <option value="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/WordNet.java" />
+        <option value="$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/Percolation.java" />
+        <option value="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/Outcast.java" />
+        <option value="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/WordNet.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java" />
+        <option value="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/SAP.java" />
       </list>
     </option>
   </component>
@@ -193,9 +293,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -205,7 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -218,6 +318,12 @@
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Part1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
@@ -263,30 +369,46 @@
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmnAssignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="part1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmnAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="part1" type="462c0819:PsiDirectoryNode" />
               <item name="assignment1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmnAssignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmnAssignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="wordnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmnAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="wordnet-testing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Algorithm/src/Part2/week1" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,16 +418,18 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/" />
+      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet" />
+      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/patternrecognition" />
+      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/percolation-testing" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/patternrecognition" />
       <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/patternrecognition/collinear_test" />
       <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation" />
       <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment2/dequesandrandomizedqueues" />
       <recent name="$PROJECT_DIR$/AlgorithmnAssignments" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment3/patternrecognition" />
-      <recent name="$PROJECT_DIR$/AlgorithmnAssignments/src/assignment1/percolation/percolation-testing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,36 +446,36 @@
   </component>
   <component name="RunManager" selected="Application.PercolationVisualizer">
     <configuration name="BruteCollinearPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment3.pattern_recognition.BruteCollinearPoints" />
+      <option name="MAIN_CLASS_NAME" value="part1.assignment3.pattern_recognition.BruteCollinearPoints" />
       <module name="AlgorithmnAssignments" />
       <option name="PROGRAM_PARAMETERS" value="assignment3/patternrecognition/collinear_test/input100.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment3.pattern_recognition.*" />
+          <option name="PATTERN" value="part1.assignment3.pattern_recognition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="FastCollinearPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment3.pattern_recognition.FastCollinearPoints" />
+      <option name="MAIN_CLASS_NAME" value="part1.assignment3.pattern_recognition.FastCollinearPoints" />
       <module name="AlgorithmnAssignments" />
       <option name="PROGRAM_PARAMETERS" value="assignment3/patternrecognition/collinear_test/input1000.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment3.pattern_recognition.*" />
+          <option name="PATTERN" value="part1.assignment3.pattern_recognition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment1.percolation.PercolationVisualizer" />
+      <option name="MAIN_CLASS_NAME" value="part1.assignment1.percolation.PercolationVisualizer" />
       <module name="AlgorithmnAssignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment1.percolation.*" />
+          <option name="PATTERN" value="part1.assignment1.percolation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -461,7 +585,14 @@
       <workItem from="1528517255888" duration="1596000" />
       <workItem from="1528528340975" duration="3434000" />
       <workItem from="1528604075534" duration="5500000" />
-      <workItem from="1528644626480" duration="1295000" />
+      <workItem from="1528644626480" duration="1435000" />
+      <workItem from="1528707141254" duration="342000" />
+      <workItem from="1528710086641" duration="4668000" />
+      <workItem from="1529054593488" duration="2961000" />
+      <workItem from="1529061118797" duration="4482000" />
+      <workItem from="1529115076055" duration="2747000" />
+      <workItem from="1530012000994" duration="5527000" />
+      <workItem from="1530525513168" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="roughly finish week 6">
       <created>1527750773792</created>
@@ -484,11 +615,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528517645871</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished week1 video">
+      <created>1528683489956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528683489956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105901000" />
+    <option name="totallyTimeSpent" value="127138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,7 +638,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="718" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32793018" />
@@ -509,10 +648,10 @@
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3478803" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3478803" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32793018" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.45118344" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20171674" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -525,33 +664,33 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32506886" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.29426435" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.29426435" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21816881" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42035398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32793018" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.34848484" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32506886" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32042724" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.29426435" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.29426435" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32793018" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3478803" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32506886" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +731,8 @@
     <MESSAGE value="begain algorithmn part 2" />
     <MESSAGE value="begin algorithm part 2" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="finished week1 video" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished week1 video" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,199 +748,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/unionfind/QuickFindUF.java">
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="630">
+          <caret line="60" column="71" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/unionfind/QuickUnionUF.java">
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSumFast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Point2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Selection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/Shellsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/elementarysorts/StdRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/Evaluate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/FixedCapacityStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/ResizingArrayQueueOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/ResizingArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/practicalimprovements/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/mergesort/MergeBU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/QuickSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week3/quicksort/ThreeWayQuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/elementarysymboltables/BSSimpleTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/elementarysymboltables/TraceClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/BouncingBalls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/Ball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/Particle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week2/fundamentaldatastructures/LinkedQueueOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/priorityqueues/eventdrivensimulation/CollisionSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WeightedQuickUnionUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week4/elementarysymboltables/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Stack.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="486">
+          <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -825,27 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/DepthFirstPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Bag.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -864,20 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/In.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1257">
-          <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WQUPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -902,38 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Queue.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -941,24 +832,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="648">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/ConnectedComponents.java">
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/InteractivePercolationVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-239">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part1/assignment1/percolation/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-599">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/Outcast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Bag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/LinkedBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/LinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Bag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet-testing/synsets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet-testing/hypernyms10000-subgraph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177876">
+          <caret line="9882" column="9" selection-start-line="9882" selection-start-column="9" selection-end-line="9882" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/In.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/DirectedCycle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/DirectedDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/DirectedCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/BreadthFirstPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/WordNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -966,21 +981,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding>
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/KosarajuSharirSCC.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/BreadthFirstPaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/DepthFirstPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/undirectedGraph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="161" column="17" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/Digraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2264">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmnAssignments/src/part2/Assignment1/wordnet/SAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/AlgorithmnAssignments/algs4.jar!/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSumFast.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/unionfind/QuickFindUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WQUPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/improvements/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part1/week1/unionfind/QuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="60" column="71" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Algorithm/algs4.jar!/edu/princeton/cs/algs4/ThreeSumFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Part2/week1/directedGraphs/WebCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
         </state>
       </provider>
     </entry>
